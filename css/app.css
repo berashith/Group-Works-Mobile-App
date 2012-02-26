@@ -1,0 +1,100 @@
+.cat_0 {
+     background: url(/mobile/images/intention.jpg) no-repeat right top;
+}
+
+.cat_1 {
+     background: url(/mobile/images/context.png) no-repeat right top;
+}
+
+.cat_2 {
+     background: url(/mobile/images/relationship.jpg) no-repeat right top;
+}
+
+.cat_3 {
+     background: url(/mobile/images/flow.gif) no-repeat right top;
+}
+
+.cat_4 {
+     background: url(/mobile/images/creativity.gif) no-repeat right top;
+}
+
+.cat_5 {
+     background: url(/mobile/images/perspective.gif) no-repeat right top;
+}
+
+.cat_6 {
+     background: url(/mobile/images/modelling.gif) no-repeat right top;
+}
+
+.cat_7 {
+     background: url(/mobile/images/inquiry.gif) no-repeat right top;
+}
+
+.cat_8 {
+     background: url(/mobile/images/faith.gif) no-repeat right top;
+}
+
+
+
+.cat_0_left {
+     background: url(/mobile/images/intention.jpg) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_1_left {
+     background: url(/mobile/images/context.png) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_2_left {
+     background: url(/mobile/images/relationship.jpg) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_3_left {
+     background: url(/mobile/images/flow.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_4_left {
+     background: url(/mobile/images/creativity.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_5_left {
+     background: url(/mobile/images/perspective.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_6_left {
+     background: url(/mobile/images/modelling.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_7_left {
+     background: url(/mobile/images/inquiry.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+.cat_8_left {
+     background: url(/mobile/images/faith.gif) no-repeat left top;
+     padding:0px 0px 0px 27px;
+}
+
+#patternDetailContainer {
+  padding: 20px;
+}
+
+#patternPicture {
+  display: block;
+  margin: auto;
+  padding: 0px 0px 20px; 
+}
+
+#patternHeart {
+ font-size:6px;  
+}
+
+#patternRelatedPatterns {
+  
+}
